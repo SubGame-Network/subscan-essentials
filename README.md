@@ -20,6 +20,8 @@ Research direction:
 - Substrate RPC client
 - Substrate application tools
 
+for more [details](./subgame.md)
+
 ## Contents
 
 - [Feature](#Feature)
