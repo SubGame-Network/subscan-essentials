@@ -11,6 +11,15 @@ It supports substrate-based blockchain networks with developer-friendly interfac
 It's developed by the Subscan team and used in subscan.io. 
 Developers are free to use the codebase to extend functionalities and develop unique user experiences for their audiences.
 
+## SubGame Note
+
+[SubGame](http://www.subgame.org/) fork this project is used to develop research and feed back to the original author. 
+
+Research direction:
+- Substrate FRAME framework
+- Substrate RPC client
+- Substrate application tools
+
 ## Contents
 
 - [Feature](#Feature)
